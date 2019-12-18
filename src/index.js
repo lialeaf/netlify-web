@@ -1,6 +1,8 @@
 // console.log('Begin: ./src/index.js');
-import "../public/stylesheets/main.css";
-import "../public/es6/main";
+import "./public/stylesheets/main.css";
+// import "./public/libs/jquery-2.2.4.min";
+import "./public/es6/main";
+// import "./public/es6/paper-full";
 
 import "./es6/chapter6/index.js"; 
 

@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "JavaScript 学习指南（第3版）",
   "private": true,
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node server.js",
